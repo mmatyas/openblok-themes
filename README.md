@@ -30,3 +30,6 @@ git clone --recursive https://github.com/mmatyas/openblok-themes.git themes
 
 ## Themes
 
+Gameboy, by Rookervik | [repo](https://github.com/mmatyas/openblok-theme-gameboy), [zip](https://github.com/mmatyas/openblok-theme-gameboy/archive/master.zip)
+:--|--:
+![](.screenshots/gameboy-01.png) | ![](.screenshots/gameboy-02.png)
