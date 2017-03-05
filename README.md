@@ -24,7 +24,7 @@ You can use Git to download this whole repository, for example:
 
 ```
 cd $HOME/.local/share/openblok
-git clone https://github.com/mmatyas/openblok-themes.git themes
+git clone --recursive https://github.com/mmatyas/openblok-themes.git themes
 ```
 
 
