@@ -28,6 +28,11 @@ git clone --recursive https://github.com/mmatyas/openblok-themes.git themes
 ```
 
 
+### How can I create a new theme?
+
+You can easily create your own themes, just follow the [theme documentation](https://github.com/mmatyas/openblok/blob/master/THEMES.md) of OpenBlok.
+
+
 ## Themes
 
 Gameboy, by Rookervik | [repo](https://github.com/mmatyas/openblok-theme-gameboy), [zip](https://github.com/mmatyas/openblok-theme-gameboy/archive/master.zip)
