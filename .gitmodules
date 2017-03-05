@@ -1,3 +1,6 @@
 [submodule "gameboy"]
 	path = gameboy
 	url = https://github.com/mmatyas/openblok-theme-gameboy.git
+[submodule "puyo"]
+	path = puyo
+	url = https://github.com/mmatyas/openblok-theme-puyo.git
